@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/utilisateur/Documents/Projet/applicinebamo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/utilisateur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1b956878dbe4dd27ec458ac1c0642cf4/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
